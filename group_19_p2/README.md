@@ -13,6 +13,8 @@ The Tongue Analysis API provides advanced tongue health analysis capabilities th
 
 The system leverages state-of-the-art AI models including Segment Anything Model (SAM) and custom detection algorithms to provide quantitative metrics for tongue diagnosis.
 
+🔗 **Access the app here:** [HealthLingua Analyzer](https://github.com/shubhxtech/Analyzer)
+
 ## Features
 
 - **Tongue Segmentation**: Accurately isolates the tongue area from images using the Segment Anything Model (SAM)
